@@ -70,7 +70,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@manikandaraj-T-N](https://www.frontendmentor.io/profile/manikandaraj-T-Nyourusername)
+- Frontend Mentor - [@manikandaraj-T-N](https://www.frontendmentor.io/profile/manikandaraj-T-N)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
