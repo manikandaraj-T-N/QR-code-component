@@ -41,17 +41,10 @@ Use this section to recap over some of your major learnings while working throug
 
 To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+@font-face {
+    font-family: outfit;
+    src: url(../fonts/Outfit-VariableFont_wght.ttf);
 }
 ```
 
