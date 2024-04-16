@@ -37,7 +37,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-one of the key learnings was the utilization of @font-face in CSS. This powerful rule allows developers to define custom fonts and specify their source. In the provided example, the font family "outfit" is defined, and its source is specified using a URL pointing to the font file. This enables web developers to incorporate custom fonts seamlessly into their projects, enhancing the design and visual appeal. Here's a code snippet showcasing how ```css @font-face''' can be used:
+one of the key learnings was the utilization of @font-face in CSS. This powerful rule allows developers to define custom fonts and specify their source. In the provided example, the font family "outfit" is defined, and its source is specified using a URL pointing to the font file. This enables web developers to incorporate custom fonts seamlessly into their projects, enhancing the design and visual appeal. Here's a code snippet showcasing how ```css 
+@font-face``` can be used:
 ```css
 @font-face {
     font-family: outfit;
