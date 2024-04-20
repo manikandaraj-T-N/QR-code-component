@@ -45,7 +45,7 @@ one of the key learnings was the utilization of @font-face in CSS. This powerful
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+In future projects, I aim to deepen my understanding and implementation of responsive design principles. Ensuring that my projects are not only visually appealing but also accessible across various devices and screen sizes is crucial. Additionally, I plan to explore more advanced CSS techniques such as animations and transitions to further enhance user experience and engagement.
 
 ## Author
 
@@ -54,4 +54,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I would like to express my gratitude to the Frontend Mentor community for providing such valuable challenges and fostering a supportive learning environment. Additionally, I want to thank my peers and mentors for their guidance and feedback throughout this project. Their insights have been instrumental in my growth as a developer.
