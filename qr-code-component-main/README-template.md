@@ -55,3 +55,7 @@ In future projects, I aim to deepen my understanding and implementation of respo
 ## Acknowledgments
 
 I would like to express my gratitude to the Frontend Mentor community for providing such valuable challenges and fostering a supportive learning environment. Additionally, I want to thank my peers and mentors for their guidance and feedback throughout this project. Their insights have been instrumental in my growth as a developer.
+
+## 🔗 Link for contact:-
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandaraj-t-n-834189173/)
