@@ -49,7 +49,7 @@ In future projects, I aim to deepen my understanding and implementation of respo
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here](https://qr-code-component-1-ogy5pwx01-manikandaraj-t-ns-projects.vercel.app/)
 - Frontend Mentor - [@manikandaraj-T-N](https://www.frontendmentor.io/profile/manikandaraj-T-N)
 
 ## Acknowledgments
