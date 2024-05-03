@@ -7,14 +7,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-
+This is a project to build a qr code component . That QR code is in image format. 
 ### Screenshot
 
 
@@ -24,8 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [qr-code-component](https://qr-code-component-1-ogy5pwx01-manikandaraj-t-ns-projects.vercel.app/)
-
-## My process
 
 ### Built with
 
